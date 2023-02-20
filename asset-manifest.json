@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://jobet1995.github.io/csb-jdeo7g/static/js/main.bbedb53e.chunk.js",
+    "main.js.map": "https://jobet1995.github.io/csb-jdeo7g/static/js/main.bbedb53e.chunk.js.map",
+    "runtime-main.js": "https://jobet1995.github.io/csb-jdeo7g/static/js/runtime-main.271e60ff.js",
+    "runtime-main.js.map": "https://jobet1995.github.io/csb-jdeo7g/static/js/runtime-main.271e60ff.js.map",
+    "static/js/2.2e430c2c.chunk.js": "https://jobet1995.github.io/csb-jdeo7g/static/js/2.2e430c2c.chunk.js",
+    "static/js/2.2e430c2c.chunk.js.map": "https://jobet1995.github.io/csb-jdeo7g/static/js/2.2e430c2c.chunk.js.map",
+    "index.html": "https://jobet1995.github.io/csb-jdeo7g/index.html",
+    "precache-manifest.293a52130fd33d10301bbe6b2984b9df.js": "https://jobet1995.github.io/csb-jdeo7g/precache-manifest.293a52130fd33d10301bbe6b2984b9df.js",
+    "service-worker.js": "https://jobet1995.github.io/csb-jdeo7g/service-worker.js",
+    "static/js/2.2e430c2c.chunk.js.LICENSE.txt": "https://jobet1995.github.io/csb-jdeo7g/static/js/2.2e430c2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.271e60ff.js",
+    "static/js/2.2e430c2c.chunk.js",
+    "static/js/main.bbedb53e.chunk.js"
+  ]
+}
